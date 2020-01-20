@@ -3853,6 +3853,10 @@ video {
   height: 100vh;
 }
 
+.h-screen-50{
+  height: 50vh;
+}
+
 .leading-none {
   line-height: 1;
 }
